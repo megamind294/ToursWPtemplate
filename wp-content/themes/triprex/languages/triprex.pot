@@ -1,0 +1,1350 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-29 17:35+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: triprex/404.php:47 triprex/helpers/breadcrumb.php:120
+msgid "404"
+msgstr ""
+
+#: triprex/404.php:47
+msgid "Error"
+msgstr ""
+
+#: triprex/404.php:48
+msgid ""
+"We believe in delivering tailored solutions that are designed to address "
+"your turna unique requirements. We take the time to understand."
+msgstr ""
+
+#: triprex/404.php:53
+msgid "Back To Home"
+msgstr ""
+
+#: triprex/archive-destination-style-one.php:57
+#: triprex/inc/destination/content/archive-destination-style-four.php:13
+#: triprex/inc/destination/content/archive-destination-style-one.php:11
+#: triprex/inc/destination/content/archive-destination-style-three.php:11
+#: triprex/inc/destination/content/archive-destination-style-two.php:10
+#: triprex/inc/destination/content/archive-destination.php:9
+msgid " Tour"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:46
+#: triprex/inc/tours/parts/archive-sidebar.php:64
+#: triprex/inc/transport/parts/archive-sidebar.php:19
+msgid "Destination"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:49
+msgid "Select"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:55
+msgid "Type Your Destination"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:97 triprex/inc/header/helper.php:87
+#: triprex/inc/tours/parts/archive-sidebar.php:80
+msgid "Tour Type"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:100
+msgid "Select Type"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:128
+msgid "When"
+msgstr ""
+
+#: triprex/archive-tours-top-search.php:198 triprex/helpers/breadcrumb.php:115
+msgid "Search"
+msgstr ""
+
+#: triprex/archive-visa.php:28
+msgid "Showing "
+msgstr ""
+
+#: triprex/archive-visa.php:28
+msgid " of "
+msgstr ""
+
+#: triprex/archive-visa.php:28
+msgid " Results"
+msgstr ""
+
+#: triprex/archive-visa.php:119 triprex/archive-visa.php:136
+#: triprex/archive-visa.php:141 triprex/taxonomy-country.php:59
+#: triprex/taxonomy-country.php:72 triprex/taxonomy-country.php:86
+#: triprex/taxonomy-transport-type.php:76 triprex/taxonomy-visa-mode.php:59
+#: triprex/taxonomy-visa-mode.php:72 triprex/taxonomy-visa-mode.php:86
+#: triprex/taxonomy-visa-type.php:59 triprex/taxonomy-visa-type.php:72
+#: triprex/taxonomy-visa-type.php:86 triprex/helpers/breadcrumb.php:223
+#: triprex/helpers/helper.php:807 triprex/helpers/helper.php:818
+#: triprex/helpers/helper.php:1059
+#: triprex/inc/activities/content/single-activities.php:44
+#: triprex/inc/activities/content/single-activities.php:66
+#: triprex/inc/activities/content/single-activities.php:130
+#: triprex/inc/activities/content/single-activities.php:147
+#: triprex/inc/activities/content/single-activities.php:168
+#: triprex/inc/activities/content/single-activities.php:190
+#: triprex/inc/activities/content/single-activities.php:199
+#: triprex/inc/activities/content/single-activities.php:224
+#: triprex/inc/activities/content/single-activities.php:238
+#: triprex/inc/activities/content/single-activities.php:273
+#: triprex/inc/activities/content/single-activities.php:291
+#: triprex/inc/activities/content/single-activities.php:305
+#: triprex/inc/activities/content/single-activities.php:338
+#: triprex/inc/activities/content/single-activities.php:351
+#: triprex/inc/activities/content/single-activities.php:366
+#: triprex/inc/activities/content/single-activities.php:371
+#: triprex/inc/blog/helper.php:218 triprex/inc/blog/helper.php:228
+#: triprex/inc/blog/templates/common/grid/content.php:11
+#: triprex/inc/blog/templates/common/single/meta.php:12
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:43
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:46
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:49
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:52
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:54
+#: triprex/inc/destination/content/single-destination.php:22
+#: triprex/inc/destination/content/single-destination.php:25
+#: triprex/inc/destination/content/single-destination.php:90
+#: triprex/inc/header/helper.php:109
+#: triprex/inc/hotel/content/single-hotel.php:44
+#: triprex/inc/hotel/content/single-hotel.php:67
+#: triprex/inc/hotel/content/single-hotel.php:128
+#: triprex/inc/hotel/content/single-hotel.php:145
+#: triprex/inc/tours/content/archive-tours-grid.php:11
+#: triprex/inc/tours/content/archive-tours.php:12
+#: triprex/inc/tours/content/single-tours.php:44
+#: triprex/inc/tours/content/single-tours.php:66
+#: triprex/inc/tours/content/single-tours.php:129
+#: triprex/inc/tours/content/single-tours.php:145
+#: triprex/inc/tours/content/single-tours.php:195
+#: triprex/inc/tours/content/single-tours.php:204
+#: triprex/inc/tours/content/single-tours.php:229
+#: triprex/inc/tours/content/single-tours.php:246
+#: triprex/inc/tours/content/single-tours.php:300
+#: triprex/inc/tours/content/single-tours.php:345
+#: triprex/inc/tours/content/single-tours.php:358
+#: triprex/inc/tours/content/single-tours.php:373
+#: triprex/inc/tours/content/single-tours.php:378
+#: triprex/inc/transport/content/single-transport.php:119
+#: triprex/inc/visa/content/archive-visa.php:16
+#: triprex/inc/visa/content/archive-visa.php:29
+#: triprex/inc/visa/content/archive-visa.php:43
+#: triprex/inc/visa/content/single-visa.php:21
+#: triprex/inc/visa/content/single-visa.php:35
+#: triprex/inc/visa/content/single-visa.php:49
+#: triprex/inc/visa/content/single-visa.php:61
+#: triprex/inc/visa/content/single-visa.php:72
+#: triprex/inc/visa/content/single-visa.php:75
+#: triprex/inc/visa/content/single-visa.php:82
+#: triprex/inc/visa/content/single-visa.php:90
+#: triprex/inc/visa/content/single-visa.php:105
+#: triprex/inc/visa/content/single-visa.php:110
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: triprex/archive-visa.php:159
+#: triprex/inc/activities/content/single-activities.php:439
+#: triprex/inc/hotel/content/single-hotel.php:311
+#: triprex/inc/tours/content/single-tours.php:447
+#: triprex/inc/visa/content/single-visa.php:166
+msgid "card-img"
+msgstr ""
+
+#: triprex/archive-visa.php:179 triprex/archive-visa.php:193
+#: triprex/archive-visa.php:207
+#: triprex/inc/activities/content/single-activities.php:459
+#: triprex/inc/activities/content/single-activities.php:473
+#: triprex/inc/activities/content/single-activities.php:487
+#: triprex/inc/hotel/content/single-hotel.php:331
+#: triprex/inc/hotel/content/single-hotel.php:345
+#: triprex/inc/hotel/content/single-hotel.php:359
+#: triprex/inc/tours/content/single-tours.php:467
+#: triprex/inc/tours/content/single-tours.php:481
+#: triprex/inc/tours/content/single-tours.php:495
+#: triprex/inc/visa/content/single-visa.php:186
+#: triprex/inc/visa/content/single-visa.php:200
+#: triprex/inc/visa/content/single-visa.php:214
+msgid "icon"
+msgstr ""
+
+#: triprex/searchform.php:13
+msgid "Search here..."
+msgstr ""
+
+#: triprex/taxonomy-country.php:56 triprex/taxonomy-visa-mode.php:56
+#: triprex/taxonomy-visa-type.php:56
+#: triprex/inc/visa/content/archive-visa.php:13
+#: triprex/inc/visa/content/single-visa.php:18
+msgid "Country"
+msgstr ""
+
+#: triprex/taxonomy-country.php:69 triprex/taxonomy-visa-mode.php:69
+#: triprex/taxonomy-visa-type.php:69
+#: triprex/inc/visa/content/archive-visa.php:26
+#: triprex/inc/visa/content/single-visa.php:32
+msgid "Visa Type"
+msgstr ""
+
+#: triprex/taxonomy-country.php:83 triprex/taxonomy-visa-mode.php:83
+#: triprex/taxonomy-visa-type.php:83
+#: triprex/inc/visa/content/archive-visa.php:40
+#: triprex/inc/visa/content/single-visa.php:46
+msgid "Visa Mode"
+msgstr ""
+
+#: triprex/taxonomy-country.php:104 triprex/taxonomy-visa-mode.php:104
+#: triprex/taxonomy-visa-type.php:104
+#: triprex/inc/visa/content/archive-visa.php:61
+msgid "Starting Form"
+msgstr ""
+
+#: triprex/taxonomy-country.php:111 triprex/taxonomy-visa-mode.php:111
+#: triprex/taxonomy-visa-type.php:111
+#: triprex/inc/visa/content/archive-visa.php:68
+msgid "Apply Now"
+msgstr ""
+
+#: triprex/taxonomy-transport-type.php:58
+#: triprex/inc/transport/content/archive-transport.php:20
+msgid "Available Transport"
+msgstr ""
+
+#: triprex/taxonomy-transport-type.php:73
+#: triprex/inc/transport/content/archive-transport.php:35
+msgid "transport-img"
+msgstr ""
+
+#: triprex/taxonomy-transport-type.php:87
+#: triprex/inc/destination/content/archive-destination-style-two.php:16
+#: triprex/inc/transport/content/archive-transport.php:49
+msgid "View Details"
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:22 triprex/helpers/ajax_actions.php:176
+msgid "Something went wrong!!"
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:31
+msgid "Login failed. Please check your credentials."
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:34
+msgid "Login successful. Redirecting..."
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:65 triprex/helpers/ajax_actions.php:172
+msgid "Invalid Nonce!!"
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:68
+msgid "Pricing Category ID not found!"
+msgstr ""
+
+#: triprex/helpers/ajax_actions.php:182
+msgid "Success!!"
+msgstr ""
+
+#: triprex/helpers/assets.php:97
+msgid "Extra Service"
+msgstr ""
+
+#: triprex/helpers/assets.php:135 triprex/helpers/assets.php:150
+#: triprex/helpers/assets.php:164
+msgid "Booking Date : "
+msgstr ""
+
+#: triprex/helpers/comments.php:79
+msgid "Please save my name, email address for the next time I comment."
+msgstr ""
+
+#: triprex/helpers/helper.php:404 triprex/helpers/helper.php:429
+msgid "My Account"
+msgstr ""
+
+#: triprex/helpers/helper.php:412 triprex/helpers/helper.php:437
+msgid "Login / Register"
+msgstr ""
+
+#: triprex/helpers/helper.php:434
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: triprex/helpers/helper.php:442
+msgid "REGISTER/ LOGIN"
+msgstr ""
+
+#: triprex/helpers/helper.php:902 triprex/helpers/helper.php:917
+msgid "Excellent"
+msgstr ""
+
+#: triprex/helpers/helper.php:905
+msgid "Very Good"
+msgstr ""
+
+#: triprex/helpers/helper.php:908
+#: triprex/woocommerce/single-product-reviews.php:132
+msgid "Good"
+msgstr ""
+
+#: triprex/helpers/helper.php:911
+msgid "Avarage"
+msgstr ""
+
+#: triprex/helpers/helper.php:914
+msgid "Below Avarage"
+msgstr ""
+
+#: triprex/helpers/helper.php:1243 triprex/inc/blog/helper.php:76
+msgid "Pages: "
+msgstr ""
+
+#: triprex/helpers/helper.php:1478
+msgid "Your Post ID is missing!"
+msgstr ""
+
+#: triprex/helpers/helper.php:1514 triprex/helpers/helper.php:1541
+#: triprex/helpers/helper.php:1568
+msgid "Your Post ID & Category ID is missing!"
+msgstr ""
+
+#: triprex/helpers/helper.php:1595
+msgid "Your Post ID & Service Key is missing!"
+msgstr ""
+
+#: triprex/helpers/theme_setup.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: triprex/helpers/theme_setup.php:163
+msgid "Blog Sidebar"
+msgstr ""
+
+#: triprex/helpers/theme_setup.php:165
+msgid "This sidebar will apply to your blog list and blog details page"
+msgstr ""
+
+#: triprex/helpers/woo-hooks-mutated.php:50
+#: triprex/woocommerce/cart/cart.php:35 triprex/woocommerce/cart/cart.php:90
+msgid "Quantity"
+msgstr ""
+
+#: triprex/helpers/woo-hooks-mutated.php:124
+msgid "Buy now"
+msgstr ""
+
+#: triprex/helpers/woo-hooks-mutated.php:207
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: triprex/helpers/woo-hooks-mutated.php:311
+msgid "-"
+msgstr ""
+
+#: triprex/inc/activities/content/archive-activities.php:15
+#: triprex/inc/activities/content/single-activities.php:28
+#: triprex/inc/activities/content/single-activities.php:42
+#: triprex/inc/activities/content/single-activities.php:94
+#: triprex/inc/activities/content/single-activities.php:113
+#: triprex/inc/activities/content/single-activities.php:128
+#: triprex/inc/activities/content/single-activities.php:139
+#: triprex/inc/activities/content/single-activities.php:161
+#: triprex/inc/destination/content/single-destination.php:88
+#: triprex/inc/hotel/content/archive-hotel.php:26
+#: triprex/inc/hotel/content/single-hotel.php:27
+#: triprex/inc/hotel/content/single-hotel.php:93
+#: triprex/inc/hotel/content/single-hotel.php:111
+#: triprex/inc/hotel/content/single-hotel.php:162
+#: triprex/inc/tours/content/single-tours.php:112
+#: triprex/inc/tours/content/single-tours.php:127
+#: triprex/inc/transport/content/single-transport.php:36
+#: triprex/inc/transport/content/single-transport.php:39
+#: triprex/woocommerce/loop/no-products-found.php:24
+msgid "image"
+msgstr ""
+
+#: triprex/inc/activities/content/single-activities.php:56
+#: triprex/inc/hotel/content/single-hotel.php:41
+#: triprex/inc/hotel/content/single-hotel.php:57
+#: triprex/inc/tours/content/single-tours.php:56
+#: triprex/inc/tours/content/single-tours.php:138
+msgid "banner-image"
+msgstr ""
+
+#: triprex/inc/activities/content/single-activities.php:199
+#: triprex/inc/tours/content/single-tours.php:204
+msgid "Max People"
+msgstr ""
+
+#: triprex/inc/activities/parts/booking-form.php:16
+#: triprex/inc/tours/parts/booking-form.php:10
+msgid "Select Booking Date:"
+msgstr ""
+
+#: triprex/inc/activities/parts/booking-form.php:58
+#: triprex/inc/hotel/parts/booking-form.php:60
+#: triprex/inc/tours/parts/booking-form.php:71
+#: triprex/inc/transport/parts/booking-form.php:91
+msgid "Other Extra Services"
+msgstr ""
+
+#: triprex/inc/activities/parts/booking-form.php:76
+#: triprex/inc/tours/parts/booking-form.php:88
+#: triprex/inc/transport/parts/booking-form.php:107
+msgid "Total Price:"
+msgstr ""
+
+#: triprex/inc/blog/helper.php:103
+msgid "By "
+msgstr ""
+
+#: triprex/inc/blog/templates/common/content.php:5
+#: triprex/inc/blog/templates/common/grid/content.php:20
+msgid "View Post"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/meta.php:27
+#: triprex/inc/blog/templates/common/single/meta.php:34
+msgid " Views"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/meta.php:43
+#: triprex/inc/blog/templates/common/grid/content.php:37
+#: triprex/inc/blog/templates/common/single/meta.php:50
+msgid " Min Read"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/meta.php:52
+#: triprex/inc/blog/templates/common/single/meta.php:59
+msgid "(0) Comment"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/meta.php:52
+#: triprex/inc/blog/templates/common/single/meta.php:59
+msgid "(1) Comment"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/meta.php:52
+#: triprex/inc/blog/templates/common/single/meta.php:59
+msgid "(%) Comments"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/grid/content.php:11
+#: triprex/inc/blog/templates/common/single/meta.php:12
+msgid "By,"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/grid/info.php:3
+msgid "Read More"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/grid/meta.php:3
+msgid "Comments (0)"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/grid/meta.php:3
+msgid "Comment (1)"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/grid/meta.php:3
+#: triprex/inc/comments/templates/parts/comment-list.php:5
+msgid "Comments (%)"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/single/info.php:9
+msgid "Share On:"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/single/post-link.php:16
+msgid "Prev Post"
+msgstr ""
+
+#: triprex/inc/blog/templates/common/single/post-link.php:25
+msgid "Next Post"
+msgstr ""
+
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:24
+#: triprex/inc/breadcrumb/templates/breadcrumb-page.php:23
+#: triprex/inc/breadcrumb/templates/breadcrumb-single.php:23
+msgid "Category : "
+msgstr ""
+
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:27
+#: triprex/inc/breadcrumb/templates/breadcrumb-page.php:26
+#: triprex/inc/breadcrumb/templates/breadcrumb-single.php:26
+msgid "Tag : "
+msgstr ""
+
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:30
+#: triprex/inc/breadcrumb/templates/breadcrumb-page.php:29
+#: triprex/inc/breadcrumb/templates/breadcrumb-single.php:29
+msgid "Author : "
+msgstr ""
+
+#: triprex/inc/breadcrumb/templates/breadcrumb-archive.php:33
+#: triprex/inc/breadcrumb/templates/breadcrumb-page.php:32
+#: triprex/inc/breadcrumb/templates/breadcrumb-single.php:32
+msgid "Date : "
+msgstr ""
+
+#: triprex/inc/breadcrumb/templates/breadcrumb-search.php:20
+#, php-format
+msgid "Looking for : %s"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:9
+msgid "Leave a comment:"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:11
+msgid "Your Name* :"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:12
+msgid "Jackson Mile"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:14
+msgid "Your Email* :"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:15
+msgid "example@gamil.com"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:18
+msgid "Your Message* :"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:18
+msgid "Write Something..."
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-form.php:20
+msgid "Post Comment"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-list.php:5
+msgid "Comment 0"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-list.php:5
+msgid "Comment 01"
+msgstr ""
+
+#: triprex/inc/comments/templates/parts/comment-list.php:23
+msgid "Comments are closed."
+msgstr ""
+
+#: triprex/inc/common/templates/preloader.php:3
+msgid "Close"
+msgstr ""
+
+#: triprex/inc/common/templates/preloader.php:13
+msgid "preloader-logo"
+msgstr ""
+
+#: triprex/inc/content/templates/posts-not-found.php:4
+msgid "Sorry!, Nothing Found!"
+msgstr ""
+
+#: triprex/inc/content/templates/posts-not-found.php:5
+#: triprex/woocommerce/loop/no-products-found.php:26
+msgid ""
+"Nothing Match your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: triprex/inc/destination/content/archive-destination-style-one.php:16
+#: triprex/inc/destination/content/archive-destination-style-three.php:16
+#: triprex/inc/destination/content/archive-destination.php:12
+#: triprex/inc/header/helper.php:164
+msgid "Travel To"
+msgstr ""
+
+#: triprex/inc/destination/content/single-destination.php:35
+#: triprex/inc/tours/parts/archive-sidebar.php:101
+#: triprex/inc/transport/parts/archive-sidebar.php:55
+msgid "card2-img"
+msgstr ""
+
+#: triprex/inc/destination/content/single-destination.php:71
+msgid "Location."
+msgstr ""
+
+#: triprex/inc/destination/content/single-destination.php:126
+msgid "Discover"
+msgstr ""
+
+#: triprex/inc/destination/content/single-destination.php:189
+#: triprex/inc/destination/content/single-destination.php:195
+#: triprex/inc/hotel/content/archive-hotel.php:17
+#: triprex/inc/tours/content/single-tours.php:28
+#: triprex/inc/tours/content/single-tours.php:93
+#: triprex/inc/tours/content/single-tours.php:160
+msgid "thumbnail"
+msgstr ""
+
+#: triprex/inc/destination/content/single-destination.php:324
+msgid "Book A Trip"
+msgstr ""
+
+#: triprex/inc/footer/helper.php:66
+msgid "vector1"
+msgstr ""
+
+#: triprex/inc/footer/helper.php:67
+msgid "vector2"
+msgstr ""
+
+#: triprex/inc/footer/helper.php:160
+msgid "©Copyright 2024 TripRex | Design By "
+msgstr ""
+
+#: triprex/inc/footer/helper.php:160
+msgid "Egens Lab"
+msgstr ""
+
+#: triprex/inc/header/helper.php:67
+msgid "sidaber logo"
+msgstr ""
+
+#: triprex/inc/header/helper.php:146
+msgid "Our Destinations"
+msgstr ""
+
+#: triprex/inc/header/helper.php:161
+msgid "5 Tour"
+msgstr ""
+
+#: triprex/inc/hotel/content/archive-hotel.php:73
+#: triprex/inc/hotel/content/single-hotel.php:208
+msgid "highlight-image"
+msgstr ""
+
+#: triprex/inc/hotel/content/archive-hotel.php:114
+#, php-format
+msgid "%s Days %s Nights, %s Adults"
+msgstr ""
+
+#: triprex/inc/hotel/content/archive-hotel.php:133
+msgid "Check Availability"
+msgstr ""
+
+#: triprex/inc/hotel/content/single-hotel.php:126
+#: triprex/inc/tours/content/single-tours.php:42
+msgid "picture"
+msgstr ""
+
+#: triprex/inc/hotel/content/single-hotel.php:138
+msgid "Banner-Image"
+msgstr ""
+
+#: triprex/inc/hotel/parts/archive-sidebar.php:39
+#: triprex/inc/transport/parts/archive-sidebar.php:10
+msgid "Search Here"
+msgstr ""
+
+#: triprex/inc/hotel/parts/archive-sidebar.php:48
+msgid "Room Types"
+msgstr ""
+
+#: triprex/inc/hotel/parts/archive-sidebar.php:66
+#: triprex/inc/tours/parts/archive-sidebar.php:51
+msgid "Price Filter"
+msgstr ""
+
+#: triprex/inc/hotel/parts/archive-sidebar.php:79
+msgid "Hotel Locations"
+msgstr ""
+
+#: triprex/inc/hotel/parts/booking-form.php:19
+msgid "Select Your Booking Date:"
+msgstr ""
+
+#: triprex/inc/hotel/parts/booking-form.php:37
+msgid "Guests & Room:"
+msgstr ""
+
+#: triprex/inc/hotel/parts/booking-form.php:39
+msgid "Room Quantity:"
+msgstr ""
+
+#: triprex/inc/hotel/parts/booking-form.php:49
+msgid "Guest Capability:"
+msgstr ""
+
+#: triprex/inc/hotel/parts/booking-form.php:77
+msgid "Total Price: "
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:399
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:928
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2690
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3763
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:400
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3333
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:401
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3118
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:620
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:621
+msgid "Update Required"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:1037
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:1226
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3114
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2122
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2423
+msgid "Required"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2426
+msgid "Recommended"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2443
+msgid "WordPress Repository"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2446
+msgid "External Source"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2449
+msgid "Pre-Packaged"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2467
+msgid "Not Installed"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2471
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2473
+msgid "Active"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2479
+msgid "Required Update not Available"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2481
+msgid "Requires Update"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2483
+msgid "Update recommended"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2540
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2544
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2548
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2552
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2638
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2646
+msgid "Installed version:"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2654
+msgid "Minimum required version:"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2666
+msgid "Available version:"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2690
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2705
+msgid "Plugin"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2706
+msgid "Source"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2707
+msgid "Type"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2711
+msgid "Version"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2712
+msgid "Status"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2764
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2769
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2775
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2847
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2882
+msgid "Install"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2888
+msgid "Update"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2891
+msgid "Activate"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2923
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2925
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2966
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:2968
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3074
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3100
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3332
+msgid "Plugin activation failed."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3679
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3682
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3684
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3688
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3690
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3698
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3691
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3693
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3696
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3699
+msgid "All installations have been completed."
+msgstr ""
+
+#: triprex/inc/plugins/tgma/class-tgm-plugin-activation.php:3701
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: triprex/inc/tours/content/archive-tours-grid.php:8
+msgid "thumbnail-image"
+msgstr ""
+
+#: triprex/inc/tours/content/archive-tours-grid.php:66
+#: triprex/inc/tours/content/archive-tours.php:69
+msgid "Book a Trip"
+msgstr ""
+
+#: triprex/inc/tours/parts/booking-form.php:19
+msgid "Check In"
+msgstr ""
+
+#: triprex/inc/tours/parts/booking-form.php:24
+msgid "Check Out"
+msgstr ""
+
+#: triprex/inc/transport/content/single-transport.php:76
+msgid "Icon"
+msgstr ""
+
+#: triprex/inc/transport/parts/archive-sidebar.php:34
+msgid "Facilities"
+msgstr ""
+
+#: triprex/inc/transport/parts/booking-form.php:12
+msgid "Select Your Transport Type:"
+msgstr ""
+
+#: triprex/inc/transport/parts/booking-form.php:47
+msgid "Select Your Reserve Date:"
+msgstr ""
+
+#: triprex/inc/transport/parts/booking-form.php:83
+msgid "Please select any pricing category"
+msgstr ""
+
+#: triprex/inc/visa/content/single-visa.php:134
+msgid "Group Size:"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:37
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: triprex/woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:80
+msgid "Add a review"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:82
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:94
+msgid "Name"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:100
+msgid "Email"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:125
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:129
+msgid "Your rating"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:130
+msgid "Rate&hellip;"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:131
+msgid "Perfect"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:133
+msgid "Average"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:134
+msgid "Not that bad"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:135
+msgid "Very poor"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:139
+msgid "Your review"
+msgstr ""
+
+#: triprex/woocommerce/single-product-reviews.php:146
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: triprex/woocommerce/cart/cart-totals.php:26
+msgid "Cart Overview"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart-totals.php:31
+#: triprex/woocommerce/cart/cart-totals.php:32
+#: triprex/woocommerce/cart/cart.php:116
+#: triprex/woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart-totals.php:53
+#: triprex/woocommerce/cart/cart-totals.php:54
+msgid "Shipping"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart-totals.php:101
+#: triprex/woocommerce/cart/cart-totals.php:102
+#: triprex/woocommerce/cart/cart.php:36
+#: triprex/woocommerce/checkout/review-order.php:108
+msgid "Total"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:32
+msgid "Thumbnail image"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:33 triprex/woocommerce/cart/cart.php:64
+#: triprex/woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:34 triprex/woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:134
+msgid "Coupon:"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:134
+msgid "Coupon code"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:134
+msgid "Apply coupon"
+msgstr ""
+
+#: triprex/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: triprex/woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: triprex/woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: triprex/woocommerce/checkout/review-order.php:25
+msgid "Amount"
+msgstr ""
+
+#: triprex/woocommerce/loop/no-products-found.php:25
+msgid "Sorry !, No product found"
+msgstr ""
+
+#: triprex/woocommerce/loop/sale-flash.php:32
+msgid "Sale!"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:39
+msgid "Login"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:42
+msgid "Username or email address"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:47
+#: triprex/woocommerce/myaccount/form-login.php:99
+msgid "Password"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:55
+msgid "Remember me"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:58
+msgid "Log in"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:78
+#: triprex/woocommerce/myaccount/form-login.php:113
+msgid "Register"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: triprex/woocommerce/myaccount/form-login.php:105
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""

@@ -1,0 +1,204 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">e-landing-page</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">shop_order_placehold</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">destination</custom-type>
+    <custom-type translate="1">hotel</custom-type>
+    <custom-type translate="1">activities</custom-type>
+    <custom-type translate="1">visa</custom-type>
+    <custom-type translate="1">tours</custom-type>
+    <custom-type translate="1">transport</custom-type>
+    <custom-type translate="1">mc4wp-form</custom-type>
+    <custom-type translate="1">reviewx</custom-type>
+    <custom-type translate="1">patterns_ai_data</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">city-location</taxonomy>
+    <taxonomy translate="1">country</taxonomy>
+    <taxonomy translate="1">visa-type</taxonomy>
+    <taxonomy translate="1">visa-mode</taxonomy>
+    <taxonomy translate="1">transport-type</taxonomy>
+    <taxonomy translate="1">activities-country</taxonomy>
+    <taxonomy translate="1">activities-type</taxonomy>
+    <taxonomy translate="1">room-type</taxonomy>
+    <taxonomy translate="1">pricing-category</taxonomy>
+    <taxonomy translate="1">tour-types</taxonomy>
+    <taxonomy translate="1">hotel-location</taxonomy>
+    <taxonomy translate="1">pricing-category-activities</taxonomy>
+    <taxonomy translate="1">pricing-category-transport</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">egns_activities_meta_id</custom-field>
+    <custom-field action="copy">egns_destination_meta_id</custom-field>
+    <custom-field action="copy">hotel_room_price</custom-field>
+    <custom-field action="copy">egns_hotel_meta_id</custom-field>
+    <custom-field action="copy">egns_page_options</custom-field>
+    <custom-field action="copy">egns_video_url</custom-field>
+    <custom-field action="copy">egns_gallery_images</custom-field>
+    <custom-field action="copy">egns_thumb_images</custom-field>
+    <custom-field action="copy">egns_quote_text</custom-field>
+    <custom-field action="copy">egns_audio_url</custom-field>
+    <custom-field action="copy">transport_price</custom-field>
+    <custom-field action="ignore">egns_transport_meta_id</custom-field>
+    <custom-field action="copy">tour_price</custom-field>
+    <custom-field action="copy">egns_tours_meta_id</custom-field>
+    <custom-field action="copy">egns_visa_meta_id</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="egns_theme_options">
+      <key name="preloader_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_logo_mobile">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_top_contact_info">
+        <key name="0">
+          <key name="contact_top_type"/>
+          <key name="phone_top_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="phone_top_info_text"/>
+          <key name="email_top_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="email_top_info_text"/>
+        </key>
+      </key>
+      <key name="header_contact_info">
+        <key name="0">
+          <key name="phone_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="phone_info_text"/>
+          <key name="email_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="email_info_text"/>
+        </key>
+      </key>
+      <key name="header_button_text"/>
+      <key name="sidebar_area_bg_img">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_sidebar_logo_img">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_sidebar_contact_info">
+        <key name="0">
+          <key name="phone_sidebar_info_text"/>
+          <key name="email_sidebar_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="email_sidebar_info_text"/>
+        </key>
+        <key name="1">
+          <key name="phone_sidebar_info_text"/>
+          <key name="email_sidebar_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+          <key name="email_sidebar_info_text"/>
+        </key>
+      </key>
+      <key name="header_sell_label"/>
+      <key name="header_signIn_label"/>
+      <key name="header_one_contact_head_label"/>
+      <key name="header_two_contact_head_label"/>
+      <key name="header_two_sidebar_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_two_sidebar_contact_head_label"/>
+      <key name="header_two_wishlist_label"/>
+      <key name="header_two_signIn_label"/>
+      <key name="header_three_wishlist_label"/>
+      <key name="header_three_sell_label"/>
+      <key name="header_three_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_three_contact_head_label"/>
+      <key name="header_four_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_four_sidebar_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_four_sidebar_contact_head_label"/>
+      <key name="header_five_wishlist_label"/>
+      <key name="header_five_sell_label"/>
+      <key name="header_five_contact_head_label"/>
+      <key name="header_five_signIn_label"/>
+      <key name="header_five_cart_label"/>
+      <key name="breadcrumb_bg_image">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="tour_banner_card_content_title"/>
+      <key name="tour_banner_card_content_desc"/>
+      <key name="tour_banner_card_btn_text"/>
+      <key name="bnr_crd_contact_info">
+        <key name="0">
+          <key name="phone_bnr_info_text"/>
+          <key name="email_bnr_icon_svg">
+            <key name="alt"/>
+            <key name="title"/>
+          </key>
+        </key>
+      </key>
+      <key name="desti_banner_card_content_title"/>
+      <key name="desti_banner_card_content_desc"/>
+      <key name="desti_banner_card_btn_text"/>
+      <key name="destination_details_page_recom_pkg_heading"/>
+      <key name="destination_details_page_recom_pkg_btn_text"/>
+      <key name="hotel_booking_form_heading_title"/>
+      <key name="hotel_bnr_crd_contact_info">
+        <key name="0">
+          <key name="phone_h_bnr_info_text"/>
+          <key name="email_h_bnr_info_text"/>
+        </key>
+      </key>
+      <key name="activities_booking_form_heading_title"/>
+      <key name="activities_bnr_crd_contact_info">
+        <key name="0">
+          <key name="phone_ac_bnr_info_text"/>
+          <key name="email_ac_bnr_info_text"/>
+        </key>
+      </key>
+      <key name="transport_banner_card_btn_text"/>
+      <key name="transport_booking_form_heading_title"/>
+      <key name="transport_booking_form_heading_desc"/>
+    </key>
+  </admin-texts>
+</wpml-config>

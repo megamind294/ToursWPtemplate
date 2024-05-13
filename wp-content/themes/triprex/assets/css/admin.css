@@ -1,0 +1,15 @@
+mark {
+    padding: 2px 5px;
+    vertical-align: middle;
+}
+
+.csf-field-image_select .csf--image {
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.338);
+}
+
+.csf-field-checkbox ul, .csf-field-radio ul {
+    display: flex;
+    gap: 25px;
+  }
